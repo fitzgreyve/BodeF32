@@ -10,7 +10,7 @@ Documentation is within the file comments.
 
 The sketch uses the 32 bit [OpenAudio Arduino Library](https://github.com/chipaudette/OpenAudio_ArduinoLibrary)
 
-##Hardware configuration
+## Hardware configuration
 
     A0 (VR1) is MIX control
     A1 (VR3) is Squelch control
