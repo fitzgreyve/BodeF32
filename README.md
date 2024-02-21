@@ -4,7 +4,7 @@
 
 </header>
 
-This is the Teensy sketch for the code for the Fitzgreyve 1630 Frequency Shifter, intended for use with the Fitzgreyve hardare, Teensy 4.0 and Audio Shield.
+This is the Teensy sketch for the code for the Fitzgreyve 1630 Frequency Shifter, intended for use with the Fitzgreyve hardware, Teensy 4.0 and Audio Shield.
 
 Documentation is within the file comments.
 
