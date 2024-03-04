@@ -11,7 +11,7 @@ Documentation is within the file comments.
 The sketch uses the 32 bit [OpenAudio Arduino Library](https://github.com/chipaudette/OpenAudio_ArduinoLibrary)
 
 ## Eurorack Module Description
-The Fitzgreyve  1630d is a digital interpretation of the Moog model 1630 Bode Frequency Shifter - PCBs and panels are available from www.fitzgreyve.co.uk
+The Fitzgreyve  1630d is a digital interpretation of the Moog model 1630 Bode Frequency Shifter - PCBs, panels, and build information/BOM  are available from www.fitzgreyve.co.uk
 
 The module is based on a Teensy 4.0 processor together with the Teensy Audio Board. A front panel PCB hosts these together with the controls and interface circuitry.
 
